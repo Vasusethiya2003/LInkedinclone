@@ -14,35 +14,6 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 - Responsive Design
 - Cloudinary Integration for Media Management
 
-## Screenshots
-
-![Home](https://i.ibb.co/S6T3zkf/linkedin-clone-1.png)
-- Home Page
-
-![Post](https://i.ibb.co/9n5WZVC/linkedin-clone-2.png)
-- Post Popup
-
-![Profile](https://i.ibb.co/rMFpZkV/linkedin-clone-3.png)
-- Profile Section
-
-## Run Locally
-
-Clone the project
-
-```bash
-    
-```
-Go to the project directory
-
-```bash
-    cd Linkedin-Clone
-```
-Install dependencies
-
-```bash
-    npm install
-```
-
 Setup Environment Vaiables
 
 ```Make .env file in "root" folder and store environment Variables
