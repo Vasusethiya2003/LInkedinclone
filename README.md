@@ -24,6 +24,9 @@ Setup Environment Vaiables
   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = YOUR-CLERK-PUBLISHABLE-KEY
   CLERK_SECRET_KEY = YOUR-CLERK-SECRET-KEY
  ```
+ScreenShots:
+<img width="1913" height="905" alt="Screenshot 2025-08-03 192910" src="https://github.com/user-attachments/assets/87c59dda-b176-4989-92d8-30c4dc0034a4" />
+<img width="1912" height="908" alt="Screenshot 2025-08-03 192931" src="https://github.com/user-attachments/assets/3f63b7d7-2400-4d03-8d92-bd870fedb976" />
 
 Start the server
 
